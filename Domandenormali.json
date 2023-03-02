@@ -24,7 +24,6 @@
             "answers": [
                 { "answer": "Po", "correct": true },
                 { "answer": "Arno", "correct": false },
-                { "answer": "Tiber", "correct": false },
                 { "answer": "Adige", "correct": false },
                 { "answer": "Spionaggio", "correct": true}
             ]
@@ -224,7 +223,6 @@
 		"answers": [
 			{ "answer": "Po", "correct": true },
 			{ "answer": "Arno", "correct": false },
-			{ "answer": "Tiber", "correct": false },
 			{ "answer": "Adige", "correct": false },
 			{ "answer": "Spionaggio", "correct": false}
 		]
