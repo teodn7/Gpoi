@@ -11,15 +11,6 @@
             ]
         },
         {
-            "question": "Qual è la regione più grande d'Italia?",
-            "answers": [
-                { "answer": "Lazio", "correct": false },
-                { "answer": "Sicilia", "correct": true },
-                { "answer": "Lombardia", "correct": false },
-                { "answer": "Campania", "correct": false }
-            ]
-        },
-        {
             "question": "Qual è il fiume più lungo d'Italia?",
             "answers": [
                 { "answer": "Po", "correct": true },
@@ -35,33 +26,6 @@
                 { "answer": "Monte Cervino", "correct": false },
                 { "answer": "Monte Rosa", "correct": false },
                 { "answer": "Monte Bianco di Tenda", "correct": true }
-            ]
-        },
-        {
-            "question": "Qual è la città più grande della Sardegna?",
-            "answers": [
-                { "answer": "Cagliari", "correct": true },
-                { "answer": "Olbia", "correct": false },
-                { "answer": "Sassari", "correct": false },
-                { "answer": "Nuoro", "correct": false }
-            ]
-        },
-        {
-            "question": "Qual è il lago più grande d'Italia?",
-            "answers": [
-                { "answer": "Lago di Garda", "correct": true },
-                { "answer": "Lago Maggiore", "correct": false },
-                { "answer": "Lago di Como", "correct": false },
-                { "answer": "Lago di Iseo", "correct": false }
-            ]
-        },
-        {
-            "question": "Qual è la regione italiana che confina con la Francia?",
-            "answers": [
-                { "answer": "Toscana", "correct": false },
-                { "answer": "Liguria", "correct": false },
-                { "answer": "Piemonte", "correct": true },
-                { "answer": "Lombardia", "correct": false }
             ]
         },
         {
@@ -173,15 +137,6 @@
 		]
 	},
 	{
-		"question": "Qual è il lago più grande d'Italia?",
-		"answers": [
-			{ "answer": "Lago di Garda", "correct": true },
-			{ "answer": "Lago Maggiore", "correct": false },
-			{ "answer": "Lago di Como", "correct": false },
-			{ "answer": "Lago di Iseo", "correct": false }
-		]
-	},
-	{
 		"question": "Qual è la regione italiana che confina con la Francia?",
 		"answers": [
 			{ "answer": "Toscana", "correct": false },
@@ -200,51 +155,6 @@
 		]
 	},
 	{
-		"question": "Qual è la capitale dell'Italia?",
-		"answers": [
-			{ "answer": "Milano", "correct": false },
-			{ "answer": "Roma", "correct": true },
-			{ "answer": "Napoli", "correct": false },
-			{ "answer": "Torino", "correct": false }
-		]
-	},
-	{
-		"question": "Qual è la regione più grande d'Italia?",
-		"answers": [
-			{ "answer": "Lazio", "correct": false },
-			{ "answer": "Sicilia", "correct": true },
-			{ "answer": "Lombardia", "correct": false },
-			{ "answer": "Campania", "correct": false }
-		]
-	},
-	{
-		"question": "Qual è il fiume più lungo d'Italia?",
-		"answers": [
-			{ "answer": "Po", "correct": true },
-			{ "answer": "Arno", "correct": false },
-			{ "answer": "Adige", "correct": false },
-			{ "answer": "Spionaggio", "correct": false}
-		]
-	},
-	{
-		"question": "Qual è la montagna più alta d'Italia?",
-		"answers": [
-			{ "answer": "Monte Bianco", "correct": false },
-			{ "answer": "Monte Cervino", "correct": false },
-			{ "answer": "Monte Rosa", "correct": false },
-			{ "answer": "Monte Bianco di Tenda", "correct": true }
-		]
-	},
-	{
-		"question": "Qual è la città più grande della Sardegna?",
-		"answers": [
-			{ "answer": "Cagliari", "correct": true },
-			{ "answer": "Olbia", "correct": false },
-			{ "answer": "Sassari", "correct": false },
-			{ "answer": "Nuoro", "correct": false }
-		]
-	},
-	{
 		"question": "Qual è il lago più grande d'Italia?",
 		"answers": [
 			{ "answer": "Lago di Garda", "correct": true },
@@ -253,15 +163,7 @@
 			{ "answer": "Lago di Iseo", "correct": false }
 		]
 	},
-	{
-		"question": "Qual è la regione italiana che confina con la Francia?",
-		"answers": [
-			{ "answer": "Toscana", "correct": false },
-			{ "answer": "Liguria", "correct": false },
-			{ "answer": "Piemonte", "correct": true },
-			{ "answer": "Lombardia", "correct": false }
-		]
-	},
+	
 	{
 		"question": "Qual è la regione italiana che si affaccia sul mare Adriatico?",
 		"answers": [
