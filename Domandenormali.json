@@ -65,15 +65,6 @@
 		]
 	},
 	{
-		"question": "Qual è il promontorio italiano più famoso?",
-		"answers": [
-			{ "answer": "Capo Vaticano", "correct": false },
-			{ "answer": "Promontorio del Gargano", "correct": false },
-			{ "answer": "Promontorio di Portofino", "correct": false },
-			{ "answer": "Promontorio di Circeo", "correct": true }
-		]
-	},
-	{
 		"question": "Qual è la città italiana più popolosa?",
 		"answers": [
 			{ "answer": "Roma", "correct": false },
