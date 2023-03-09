@@ -1,0 +1,45 @@
+{
+  "domande": [
+    {
+      "testo": "Il monte Bianco è la montagna più alta d'Italia.",
+      "risposta": true
+    },
+    {
+      "testo": "Il Po è il fiume più lungo d'Italia.",
+      "risposta": false
+    },
+    {
+      "testo": "La Sardegna è la seconda isola per estensione del Mediterraneo.",
+      "risposta": false
+    },
+    {
+      "testo": "Il lago di Garda è il lago più grande d'Italia.",
+      "risposta": false
+    },
+    {
+      "testo": "Il Vesuvio è il vulcano attivo più alto d'Europa.",
+      "risposta": true
+    },
+    {
+      "testo": "La città di Venezia è situata su un'isola della laguna veneta.",
+      "risposta": true
+    },
+    {
+      "testo": "Il Gran Sasso è la catena montuosa più alta d'Italia.",
+      "risposta": false
+    },
+    {
+      "testo": "Il lago di Como è il terzo lago più grande d'Italia.",
+      "risposta": false
+    },
+    {
+      "testo": "La Sicilia è l'isola più grande del Mediterraneo.",
+      "risposta": true
+    },
+    {
+      "testo": "Il golfo di Napoli è uno dei tre golfi dell'Italia peninsulare.",
+      "risposta": true
+    }
+  ]
+}
+
