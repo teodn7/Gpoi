@@ -1,45 +1,89 @@
 {
   "domande": [
     {
-      "testo": "Il monte Bianco è la montagna più alta d'Italia.",
+      "testo": "La regione italiana più settentrionale è la Valle d'Aosta.",
       "risposta": true
     },
     {
-      "testo": "Il Po è il fiume più lungo d'Italia.",
-      "risposta": false
-    },
-    {
-      "testo": "La Sardegna è la seconda isola per estensione del Mediterraneo.",
-      "risposta": false
-    },
-    {
-      "testo": "Il lago di Garda è il lago più grande d'Italia.",
-      "risposta": false
-    },
-    {
-      "testo": "Il Vesuvio è il vulcano attivo più alto d'Europa.",
+      "testo": "La Sicilia è la più grande isola italiana.",
       "risposta": true
     },
     {
-      "testo": "La città di Venezia è situata su un'isola della laguna veneta.",
-      "risposta": true
-    },
-    {
-      "testo": "Il Gran Sasso è la catena montuosa più alta d'Italia.",
+      "testo": "Il Monte Bianco è la montagna più alta d'Italia.",
       "risposta": false
     },
     {
-      "testo": "Il lago di Como è il terzo lago più grande d'Italia.",
+      "testo": "Il Lago di Como è il lago più grande d'Italia.",
       "risposta": false
     },
     {
-      "testo": "La Sicilia è l'isola più grande del Mediterraneo.",
+      "testo": "La città di Trieste si trova sulla costa adriatica dell'Italia.",
       "risposta": true
     },
     {
-      "testo": "Il golfo di Napoli è uno dei tre golfi dell'Italia peninsulare.",
+      "testo": "La regione italiana con il maggior numero di province è la Lombardia.",
       "risposta": true
-    }
-  ]
-}
-
+    },
+    {
+      "testo": "Il fiume Po attraversa la città di Torino.",
+      "risposta": false
+    },
+    {
+      "testo": "Il Vesuvio è un vulcano attivo situato in Campania.",
+      "risposta": true
+    },
+    {
+      "testo": "Il fiume più lungo d'Italia è il Tevere.",
+      "risposta": false
+    },
+    {
+      "testo": "La città di Bari si trova sulla costa occidentale dell'Italia.",
+      "risposta": false
+    },
+    {
+      "testo": "La regione italiana con la più alta densità di popolazione è la Campania.",
+      "risposta": false
+    },
+    {
+      "testo": "La città di Verona si trova in Lombardia.",
+      "risposta": false
+    },
+    {
+      "testo": "La regione italiana con la maggior estensione territoriale è la Sicilia.",
+      "risposta": false
+    },
+    {
+      "testo": "La città di Messina si trova sulla costa orientale della Sicilia.",
+      "risposta": true
+    },
+    {
+      "testo": "Il fiume Arno attraversa la città di Firenze.",
+      "risposta": true
+    },
+    {
+      "testo": "La città di Lecce si trova in Puglia.",
+      "risposta": true
+    },
+    {
+      "testo": "Il lago di Garda è il più grande lago italiano.",
+      "risposta": false
+    },
+    {
+      "testo": "La città di Cagliari si trova in Sardegna.",
+      "risposta": true
+    },
+    {
+      "testo": "Il fiume Po sfocia nel mare Adriatico.",
+      "risposta": false
+    },
+    {
+      "testo": "La città di Ancona si trova sulla costa adriatica dell'Italia.",
+      "risposta": true
+    },
+    {
+      "testo": "La regione italiana con la più alta percentuale di territorio montuoso è il Trentino-Alto Adige.",
+      "risposta": true
+    },
+    {
+      "testo": "Il golfo di Napoli si trova sulla costa adriatica dell'Italia.",
+      "risposta": false
