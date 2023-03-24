@@ -14,8 +14,7 @@
       "answers":[
         {"answer": "Vero","correct":true},
         {"answer": "Falso","correct":false}
-       ]
-       ]
+       ]   
     },
     {
       "question": "Il Monte Bianco è la montagna più alta d'Italia.",
@@ -24,7 +23,6 @@
         {"answer": "Vero","correct":false},
         {"answer": "Falso","correct":true}
        ]
-       ]
     },
     {
       "question": "Il Lago di Como è il lago più grande d'Italia.",
@@ -32,7 +30,6 @@
       "answers":[
         {"answer": "Vero","correct":false},
         {"answer": "Falso","correct":true}
-       ]
        ]
     },
     {
