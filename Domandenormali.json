@@ -1,5 +1,6 @@
 {
     "quizTitle": "Conoscenza della geografia italiana",
+	"type":"multipla",
     "questions": [
         {
             "question": "Qual è la capitale dell'Italia?",
@@ -12,6 +13,7 @@
         },
         {
             "question": "Qual è il fiume più lungo d'Italia?",
+		"type":"multipla",
             "answers": [
                 { "answer": "Po", "correct": true },
                 { "answer": "Arno", "correct": false },
@@ -21,7 +23,8 @@
         },
        {
             "question": "Qual è la montagna più alta d'Italia?",
-            "answers": [
+            "type":"multipla",
+	       "answers": [
                 { "answer": "Monte Bianco", "correct": false },
                 { "answer": "Monte Cervino", "correct": false },
                 { "answer": "Monte Rosa", "correct": false },
@@ -30,6 +33,7 @@
         },
         {
 		"question": "Qual è la regione italiana più settentrionale?",
+		"type":"multipla",
 		"answers": [
 			{ "answer": "Piemonte", "correct": false },
 			{ "answer": "Lombardia", "correct": false },
@@ -39,6 +43,7 @@
 	},
 	{
 		"question": "Qual è la regione italiana che si affaccia sul Mar Ionio?",
+		"type":"multipla",
 		"answers": [
 			{ "answer": "Puglia", "correct": false },
 			{ "answer": "Calabria", "correct": true },
@@ -48,6 +53,7 @@
 	},
 	{
 		"question": "Qual è la città italiana che si trova più a est?",
+		"type":"multipla",
 		"answers": [
 			{ "answer": "Trieste", "correct": true },
 			{ "answer": "Ancona", "correct": false },
@@ -57,6 +63,7 @@
 	},
 	{
 		"question": "Qual è l'isola italiana più grande?",
+		"type":"multipla",
 		"answers": [
 			{ "answer": "Sicilia", "correct": true },
 			{ "answer": "Sardegna", "correct": false },
@@ -66,6 +73,7 @@
 	},
 	{
 		"question": "Qual è la città italiana più popolosa?",
+		"type":"multipla",
 		"answers": [
 			{ "answer": "Roma", "correct": false },
 			{ "answer": "Milano", "correct": true },
@@ -75,6 +83,7 @@
 	},
 	{
 		"question": "Qual è la regione italiana con la maggior estensione costiera?",
+		"type":"multipla",
 		"answers": [
 			{ "answer": "Liguria", "correct": false },
 			{ "answer": "Campania", "correct": false },
@@ -84,6 +93,7 @@
 	},
 	{
 		"question": "Qual è la capitale dell'Italia?",
+		"type":"multipla",
 		"answers": [
 			{ "answer": "Milano", "correct": false },
 			{ "answer": "Roma", "correct": true },
@@ -93,6 +103,7 @@
 	},
 	{
 		"question": "Qual è la regione più grande d'Italia?",
+		"type":"multipla",
 		"answers": [
 			{ "answer": "Lazio", "correct": false },
 			{ "answer": "Sicilia", "correct": true },
@@ -102,6 +113,7 @@
 	},
 	{
 		"question": "Qual è il fiume più lungo d'Italia?",
+		"type":"multipla",
 		"answers": [
 			{ "answer": "Po", "correct": true },
 			{ "answer": "Arno", "correct": false },
@@ -111,6 +123,7 @@
 	},
 	{
 		"question": "Qual è la montagna più alta d'Italia?",
+		"type":"multipla",
 		"answers": [
 			{ "answer": "Monte Bianco", "correct": false },
 			{ "answer": "Monte Cervino", "correct": false },
@@ -120,6 +133,7 @@
 	},
 	{
 		"question": "Qual è la città più grande della Sardegna?",
+		"type":"multipla",
 		"answers": [
 			{ "answer": "Cagliari", "correct": true },
 			{ "answer": "Olbia", "correct": false },
@@ -129,6 +143,7 @@
 	},
 	{
 		"question": "Qual è la regione italiana che confina con la Francia?",
+		"type":"multipla",
 		"answers": [
 			{ "answer": "Toscana", "correct": false },
 			{ "answer": "Liguria", "correct": false },
@@ -138,6 +153,7 @@
 	},
 	{
 		"question": "In quale regione italiana si trova il Vesuvio?",
+		"type":"multipla",
 		"answers": [
 			{ "answer": "Sicilia", "correct": false },
 			{ "answer": "Lazio", "correct": false },
@@ -147,6 +163,7 @@
 	},
 	{
 		"question": "Qual è il lago più grande d'Italia?",
+		"type":"multipla",
 		"answers": [
 			{ "answer": "Lago di Garda", "correct": true },
 			{ "answer": "Lago Maggiore", "correct": false },
@@ -157,6 +174,7 @@
 	
 	{
 		"question": "Qual è la regione italiana che si affaccia sul mare Adriatico?",
+		"type":"multipla",
 		"answers": [
 			{ "answer": "Calabria", "correct": false },
 			{ "answer": "Abruzzo", "correct": true },
