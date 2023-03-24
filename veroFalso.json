@@ -1,114 +1,114 @@
 {
   "questions": [
     {
-      "testo": "La regione italiana più settentrionale è la Valle d'Aosta.",
+      "question": "La regione italiana più settentrionale è la Valle d'Aosta.",
       "type": "vero_falso",
-      "risposta": true
+      "answer": true
     },
     {
-      "testo": "La Sicilia è la più grande isola italiana.",
+      "question": "La Sicilia è la più grande isola italiana.",
       "type": "vero_falso",
-      "risposta": true
+      "answer": true
     },
     {
-      "testo": "Il Monte Bianco è la montagna più alta d'Italia.",
+      "question": "Il Monte Bianco è la montagna più alta d'Italia.",
       "type": "vero_falso",
-      "risposta": false
+      "answer": false
     },
     {
-      "testo": "Il Lago di Como è il lago più grande d'Italia.",
+      "question": "Il Lago di Como è il lago più grande d'Italia.",
       "type": "vero_falso",
-      "risposta": false
+      "answer": false
     },
     {
-      "testo": "La città di Trieste si trova sulla costa adriatica dell'Italia.",
+      "question": "La città di Trieste si trova sulla costa adriatica dell'Italia.",
       "type": "vero_falso",
-      "risposta": true
+      "answer": true
     },
     {
-      "testo": "La regione italiana con il maggior numero di province è la Lombardia.",
+      "question": "La regione italiana con il maggior numero di province è la Lombardia.",
       "type": "vero_falso",
-      "risposta": true
+      "answer": true
     },
     {
-      "testo": "Il fiume Po attraversa la città di Torino.",
+      "question": "Il fiume Po attraversa la città di Torino.",
       "type": "vero_falso",
-      "risposta": false
+      "answer": false
     },
     {
-      "testo": "Il Vesuvio è un vulcano attivo situato in Campania.",
+      "question": "Il Vesuvio è un vulcano attivo situato in Campania.",
       "type": "vero_falso",
-      "risposta": true
+      "answer": true
     },
     {
-      "testo": "Il fiume più lungo d'Italia è il Tevere.",
+      "question": "Il fiume più lungo d'Italia è il Tevere.",
       "type": "vero_falso",
-      "risposta": false
+      "answer": false
     },
     {
-      "testo": "La città di Bari si trova sulla costa occidentale dell'Italia.",
+      "question": "La città di Bari si trova sulla costa occidentale dell'Italia.",
       "type": "vero_falso",
-      "risposta": false
+      "answer": false
     },
     {
-      "testo": "La regione italiana con la più alta densità di popolazione è la Campania.",
+      "question": "La regione italiana con la più alta densità di popolazione è la Campania.",
       "type": "vero_falso",
-      "risposta": false
+      "answer": false
     },
     {
-      "testo": "La città di Verona si trova in Lombardia.",
+      "question": "La città di Verona si trova in Lombardia.",
       "type": "vero_falso",
-      "risposta": false
+      "answer": false
     },
     {
-      "testo": "La regione italiana con la maggior estensione territoriale è la Sicilia.",
+      "question": "La regione italiana con la maggior estensione territoriale è la Sicilia.",
       "type": "vero_falso",
-      "risposta": false
+      "answer": false
     },
     {
-      "testo": "La città di Messina si trova sulla costa orientale della Sicilia.",
+      "question": "La città di Messina si trova sulla costa orientale della Sicilia.",
       "type": "vero_falso",
-      "risposta": true
+      "answer": true
     },
     {
-      "testo": "Il fiume Arno attraversa la città di Firenze.",
+      "question": "Il fiume Arno attraversa la città di Firenze.",
       "type": "vero_falso",
-      "risposta": true
+      "answer": true
     },
     {
-      "testo": "La città di Lecce si trova in Puglia.",
+      "question": "La città di Lecce si trova in Puglia.",
       "type": "vero_falso",
-      "risposta": true
+      "answer": true
     },
     {
-      "testo": "Il lago di Garda è il più grande lago italiano.",
+      "question": "Il lago di Garda è il più grande lago italiano.",
       "type": "vero_falso",
-      "risposta": false
+      "answer": false
     },
     {
-      "testo": "La città di Cagliari si trova in Sardegna.",
+      "question": "La città di Cagliari si trova in Sardegna.",
       "type": "vero_falso",
-      "risposta": true
+      "answer": true
     },
     {
-      "testo": "Il fiume Po sfocia nel mare Adriatico.",
+      "question": "Il fiume Po sfocia nel mare Adriatico.",
       "type": "vero_falso",
-      "risposta": false
+      "answer": false
     },
     {
-      "testo": "La città di Ancona si trova sulla costa adriatica dell'Italia.",
+      "question": "La città di Ancona si trova sulla costa adriatica dell'Italia.",
       "type": "vero_falso",
-      "risposta": true
+      "answer": true
     },
     {
-      "testo": "La regione italiana con la più alta percentuale di territorio montuoso è il Trentino-Alto Adige.",
+      "question": "La regione italiana con la più alta percentuale di territorio montuoso è il Trentino-Alto Adige.",
       "type": "vero_falso",
-      "risposta": true
+      "answer": true
     },
     {
-      "testo": "Il golfo di Napoli si trova sulla costa adriatica dell'Italia.",
+      "question": "Il golfo di Napoli si trova sulla costa adriatica dell'Italia.",
       "type": "vero_falso",
-      "risposta": false
+      "answer": false
     }
     ]
 }
