@@ -1,5 +1,4 @@
-{
-  {
+ {
     "questions": [
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
@@ -61,4 +60,6 @@
                 { "answer": "Galleria degli Uffizi", "correct": false }
             ]
         }  
+    ]
 }
+
