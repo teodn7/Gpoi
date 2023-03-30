@@ -1,5 +1,5 @@
- {
-    questions": [
+{
+    "questions": [
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
             "image_url": "https://example.com/colosseum.jpg",
@@ -62,4 +62,3 @@
         }  
     ]
 }
-
