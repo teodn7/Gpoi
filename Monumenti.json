@@ -2,7 +2,7 @@
     "questions": [
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://example.com/colosseum.jpg",
+            "image_url": "../img/Colosseo.jpg",
             "answers": [
                 { "answer": "Colosseo", "correct": true },
                 { "answer": "Torre di Pisa", "correct": false },
@@ -12,7 +12,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://www.tuscanypeople.com/wp-content/uploads/2016/03/torre_di_pisa.jpg",
+            "image_url": "../img/torre_di_pisa.jpg",
             "answers": [
                 { "answer": "Torre di Pisa", "correct": true },
                 { "answer": "Colosseo", "correct": false },
@@ -22,7 +22,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://www.turistafaidate.it/wp-content/uploads/2020/03/duomo-milano-194644012015.jpg",
+            "image_url": "../img/duomo-milano-194644012015.jpg",
             "answers": [
                 { "answer": "Duomo di Milano", "correct": true },
                 { "answer": "Fontana di Trevi", "correct": false },
@@ -32,7 +32,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://www.napolike.it/wp-content/uploads/2020/05/pompei.jpg",
+            "image_url": "../img/pompei.jpg",
             "answers": [
                 { "answer": "Scavi di Pompei", "correct": true },
                 { "answer": "Arena di Verona", "correct": false },
@@ -42,7 +42,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://www.anitabedandbreakfast.it/wp-content/uploads/2017/03/I-misteri-del-pantheon.jpg",
+            "image_url": "../img/I-misteri-del-pantheon.jpg",
             "answers": [
                 { "answer": "Pantheon", "correct": true },
                 { "answer": "Palazzo Pitti", "correct": false },
@@ -52,7 +52,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://www.romasegreta.it/krlcrt/wp-content/uploads/2021/08/fontana-di-trevi.jpg",
+            "image_url": "../img/fontana-di-trevi.jpg",
             "answers": [
                 { "answer": "Fontana di Trevi", "correct": true },
                 { "answer": "Città del Vaticano", "correct": false },
