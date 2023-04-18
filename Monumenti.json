@@ -2,7 +2,7 @@
     "questions": [
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "../img/Colosseo.jpg",
+            "image_url": "colosseo",
             "answers": [
                 { "answer": "Colosseo", "correct": true },
                 { "answer": "Torre di Pisa", "correct": false },
@@ -12,7 +12,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "../img/torre_di_pisa.jpg",
+            "image_url": "pisa",
             "answers": [
                 { "answer": "Torre di Pisa", "correct": true },
                 { "answer": "Colosseo", "correct": false },
@@ -22,7 +22,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "../img/duomo-milano-194644012015.jpg",
+            "image_url": "duomo",
             "answers": [
                 { "answer": "Duomo di Milano", "correct": true },
                 { "answer": "Fontana di Trevi", "correct": false },
@@ -32,7 +32,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "../img/pompei.jpg",
+            "image_url": "pompei",
             "answers": [
                 { "answer": "Scavi di Pompei", "correct": true },
                 { "answer": "Arena di Verona", "correct": false },
@@ -42,7 +42,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "../img/I-misteri-del-pantheon.jpg",
+            "image_url": "pantheon",
             "answers": [
                 { "answer": "Pantheon", "correct": true },
                 { "answer": "Palazzo Pitti", "correct": false },
@@ -52,7 +52,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "../img/fontana-di-trevi.jpg",
+            "image_url": "trevi",
             "answers": [
                 { "answer": "Fontana di Trevi", "correct": true },
                 { "answer": "Città del Vaticano", "correct": false },
