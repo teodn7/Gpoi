@@ -1,0 +1,60 @@
+{
+    "quizTitle": "Conoscenza della storia del XX secolo",
+    "type": "multipla",
+    "questions": [
+        {
+            "question": "Quale paese entrò in guerra nel settembre 1939 dando inizio alla seconda guerra mondiale?",
+            "answers": [
+                { "answer": "Regno Unito", "correct": false },
+                { "answer": "Stati Uniti d'America", "correct": false },
+                { "answer": "Francia", "correct": false },
+                { "answer": "Germania", "correct": true }
+            ]
+        },
+        {
+            "question": "In quale anno fu firmato il patto Molotov-Ribbentrop, che prevedeva un accordo di non aggressione tra Germania e Unione Sovietica?",
+            "answers": [
+                { "answer": "1933", "correct": false },
+                { "answer": "1939", "correct": true },
+                { "answer": "1945", "correct": false },
+                { "answer": "1950", "correct": false }
+            ]
+        },
+        {
+            "question": "Quale evento portò gli Stati Uniti a entrare nella seconda guerra mondiale?",
+            "answers": [
+                { "answer": "L'attacco giapponese a Pearl Harbor", "correct": true },
+                { "answer": "La caduta di Singapore", "correct": false },
+                { "answer": "La battaglia di Midway", "correct": false },
+                { "answer": "La resa della Francia", "correct": false }
+            ]
+        },
+        {
+            "question": "Quale città fu distrutta dalla bomba atomica il 6 agosto 1945?",
+            "answers": [
+                { "answer": "Tokyo", "correct": false },
+                { "answer": "Hiroshima", "correct": true },
+                { "answer": "Nagasaki", "correct": false },
+                { "answer": "Kobe", "correct": false }
+            ]
+        },
+        {
+            "question": "Quali paesi formarono il Patto di Varsavia nel 1955?",
+            "answers": [
+                { "answer": "Italia, Francia, Belgio, Paesi Bassi", "correct": false },
+                { "answer": "Stati Uniti, Canada, Regno Unito", "correct": false },
+                { "answer": "Unione Sovietica, Albania, Bulgaria, Cecoslovacchia, Germania Est, Ungheria, Polonia, Romania", "correct": true },
+                { "answer": "Giappone, Corea del Sud, Australia, Nuova Zelanda", "correct": false }
+            ]
+        },
+        {
+            "question": "Quale crisi internazionale rischiò di portare il mondo al conflitto nucleare nel 1962?",
+            "answers": [
+                { "answer": "Crisi di Berlino", "correct": false },
+                { "answer": "Guerra del Vietnam", "correct": false },
+                { "answer": "Crisi dei missili di Cuba", "correct": true },
+                { "answer": "Crisi del Congo", "correct": false }
+            ]
+        }
+        ]
+        }
