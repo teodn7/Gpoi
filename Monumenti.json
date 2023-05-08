@@ -3,6 +3,7 @@
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
             "image_url": "colosseo",
+            "type":"multipla",
             "answers": [
                 { "answer": "Colosseo", "correct": true },
                 { "answer": "Torre di Pisa", "correct": false },
@@ -13,6 +14,7 @@
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
             "image_url": "pisa",
+            "type":"multipla",
             "answers": [
                 { "answer": "Torre di Pisa", "correct": true },
                 { "answer": "Colosseo", "correct": false },
@@ -23,6 +25,7 @@
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
             "image_url": "duomo",
+            "type":"multipla",
             "answers": [
                 { "answer": "Duomo di Milano", "correct": true },
                 { "answer": "Fontana di Trevi", "correct": false },
@@ -33,6 +36,7 @@
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
             "image_url": "pompei",
+            "type":"multipla",
             "answers": [
                 { "answer": "Scavi di Pompei", "correct": true },
                 { "answer": "Arena di Verona", "correct": false },
@@ -43,6 +47,7 @@
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
             "image_url": "pantheon",
+            "type":"multipla",
             "answers": [
                 { "answer": "Pantheon", "correct": true },
                 { "answer": "Palazzo Pitti", "correct": false },
