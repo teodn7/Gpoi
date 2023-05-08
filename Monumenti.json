@@ -58,6 +58,7 @@
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
             "image_url": "trevi",
+            "type":"multipla",
             "answers": [
                 { "answer": "Fontana di Trevi", "correct": true },
                 { "answer": "Città del Vaticano", "correct": false },
