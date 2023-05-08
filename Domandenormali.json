@@ -1,9 +1,9 @@
 {
     "quizTitle": "Conoscenza della geografia italiana",
-	"type":"multipla",
     "questions": [
         {
             "question": "Qual è la capitale dell'Italia?",
+	    "type":"multipla",
             "answers": [
                 { "answer": "Milano", "correct": false },
                 { "answer": "Roma", "correct": true },
@@ -13,7 +13,7 @@
         },
         {
             "question": "Qual è il fiume più lungo d'Italia?",
-		"type":"multipla",
+	    "type":"multipla",
             "answers": [
                 { "answer": "Po", "correct": true },
                 { "answer": "Arno", "correct": false },
