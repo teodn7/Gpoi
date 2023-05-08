@@ -55,6 +55,59 @@
                 { "answer": "Crisi dei missili di Cuba", "correct": true },
                 { "answer": "Crisi del Congo", "correct": false }
             ]
-        }
+        },{
+"question": "Quale evento scatenò l'entrata degli Stati Uniti nella prima guerra mondiale?",
+"answers": [
+{ "answer": "L'affondamento della Lusitania", "correct": true },
+{ "answer": "La battaglia di Marne", "correct": false },
+{ "answer": "L'attacco alla Polonia", "correct": false },
+{ "answer": "L'entrata dell'Italia in guerra", "correct": false }
+]
+},
+{
+"question": "Quale paese aveva il più grande esercito al mondo all'inizio della seconda guerra mondiale?",
+"answers": [
+{ "answer": "Stati Uniti d'America", "correct": false },
+{ "answer": "Regno Unito", "correct": false },
+{ "answer": "Germania", "correct": true },
+{ "answer": "Unione Sovietica", "correct": false }
+]
+},
+{
+"question": "Qual è stato l'effetto della Conferenza di Jalta sulla Guerra Fredda?",
+"answers": [
+{ "answer": "Ha portato alla fine della Guerra Fredda", "correct": false },
+{ "answer": "Ha portato alla creazione della NATO", "correct": false },
+{ "answer": "Ha portato alla divisione della Germania", "correct": true },
+{ "answer": "Ha portato alla caduta del Muro di Berlino", "correct": false }
+]
+},
+{
+"question": "Quale evento portò alla fine della seconda guerra mondiale in Europa?",
+"answers": [
+{ "answer": "La resa della Germania", "correct": true },
+{ "answer": "La bomba atomica su Hiroshima", "correct": false },
+{ "answer": "La battaglia di Stalingrado", "correct": false },
+{ "answer": "La conferenza di Yalta", "correct": false }
+]
+},
+{
+"question": "Qual è stata la causa principale della Guerra Fredda?",
+"answers": [
+{ "answer": "La competizione economica tra USA e URSS", "correct": false },
+{ "answer": "La rivalità ideologica tra USA e URSS", "correct": true },
+{ "answer": "La lotta per il controllo delle risorse naturali", "correct": false },
+{ "answer": "La questione della sicurezza nazionale", "correct": false }
+]
+},
+{
+"question": "Quale paese si è opposto all'invasione sovietica dell'Afghanistan nel 1979?",
+"answers": [
+{ "answer": "Stati Uniti d'America", "correct": true },
+{ "answer": "Regno Unito", "correct": false },
+{ "answer": "Francia", "correct": false },
+{ "answer": "Germania Ovest", "correct": false }
+]
+},
     ]
 }
