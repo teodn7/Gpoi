@@ -92,16 +92,6 @@
 		]
 	},
 	{
-		"question": "Qual è la capitale dell'Italia?",
-		"type":"multipla",
-		"answers": [
-			{ "answer": "Milano", "correct": false },
-			{ "answer": "Roma", "correct": true },
-			{ "answer": "Napoli", "correct": false },
-			{ "answer": "Torino", "correct": false }
-		]
-	},
-	{
 		"question": "Qual è la regione più grande d'Italia?",
 		"type":"multipla",
 		"answers": [
