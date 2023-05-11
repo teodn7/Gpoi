@@ -1,176 +1,1083 @@
 {
-    "quizTitle": "Conoscenza della geografia italiana",
-    "questions": [
-        {
-            "question": "Qual è la capitale dell'Italia?",
-	    "type":"multipla",
-            "answers": [
-                { "answer": "Milano", "correct": false },
-                { "answer": "Roma", "correct": true },
-                { "answer": "Napoli", "correct": false },
-                { "answer": "Torino", "correct": false }
-            ]
-        },
-        {
-            "question": "Qual è il fiume più lungo d'Italia?",
-	    "type":"multipla",
-            "answers": [
-                { "answer": "Po", "correct": true },
-                { "answer": "Arno", "correct": false },
-                { "answer": "Adige", "correct": false },
-                { "answer": "Spionaggio", "correct": true}
-            ]
-        },
+    "quizTitle":"Conoscenza della geografia italiana",
+    "questions":[
        {
-            "question": "Qual è la montagna più alta d'Italia?",
-            "type":"multipla",
-	       "answers": [
-                { "answer": "Monte Bianco", "correct": false },
-                { "answer": "Monte Cervino", "correct": false },
-                { "answer": "Monte Rosa", "correct": false },
-                { "answer": "Monte Bianco di Tenda", "correct": true }
-            ]
-        },
-        {
-		"question": "Qual è la regione italiana più settentrionale?",
-		"type":"multipla",
-		"answers": [
-			{ "answer": "Piemonte", "correct": false },
-			{ "answer": "Lombardia", "correct": false },
-			{ "answer": "Veneto", "correct": true },
-			{ "answer": "Trentino-Alto Adige", "correct": false }
-			]
-	},
-	{
-		"question": "Qual è la regione italiana che si affaccia sul Mar Ionio?",
-		"type":"multipla",
-		"answers": [
-			{ "answer": "Puglia", "correct": false },
-			{ "answer": "Calabria", "correct": true },
-			{ "answer": "Sicilia", "correct": false },
-			{ "answer": "Basilicata", "correct": false }
-			]
-	},
-	{
-		"question": "Qual è la città italiana che si trova più a est?",
-		"type":"multipla",
-		"answers": [
-			{ "answer": "Trieste", "correct": true },
-			{ "answer": "Ancona", "correct": false },
-			{ "answer": "Rimini", "correct": false },
-			{ "answer": "Bari", "correct": false }
-			]
-	},
-	{
-		"question": "Qual è l'isola italiana più grande?",
-		"type":"multipla",
-		"answers": [
-			{ "answer": "Sicilia", "correct": true },
-			{ "answer": "Sardegna", "correct": false },
-			{ "answer": "Elba", "correct": false },
-			{ "answer": "Capri", "correct": false }
-		]
-	},
-	{
-		"question": "Qual è la città italiana più popolosa?",
-		"type":"multipla",
-		"answers": [
-			{ "answer": "Roma", "correct": false },
-			{ "answer": "Milano", "correct": true },
-			{ "answer": "Napoli", "correct": false },
-			{ "answer": "Torino", "correct": false }
-			]
-	},
-	{
-		"question": "Qual è la regione italiana con la maggior estensione costiera?",
-		"type":"multipla",
-		"answers": [
-			{ "answer": "Liguria", "correct": false },
-			{ "answer": "Campania", "correct": false },
-			{ "answer": "Sardegna", "correct": false },
-			{ "answer": "Puglia", "correct": true }
-		]
-	},
-	{
-		"question": "Qual è la regione più grande d'Italia?",
-		"type":"multipla",
-		"answers": [
-			{ "answer": "Lazio", "correct": false },
-			{ "answer": "Sicilia", "correct": true },
-			{ "answer": "Lombardia", "correct": false },
-			{ "answer": "Campania", "correct": false }
-		]
-	},
-	{
-		"question": "Qual è il fiume più lungo d'Italia?",
-		"type":"multipla",
-		"answers": [
-			{ "answer": "Po", "correct": true },
-			{ "answer": "Arno", "correct": false },
-			{ "answer": "Adige", "correct": false },
-			{ "answer": "Spionaggio", "correct": false}
-		]
-	},
-	{
-		"question": "Qual è la montagna più alta d'Italia?",
-		"type":"multipla",
-		"answers": [
-			{ "answer": "Monte Bianco", "correct": false },
-			{ "answer": "Monte Cervino", "correct": false },
-			{ "answer": "Monte Rosa", "correct": false },
-			{ "answer": "Monte Bianco di Tenda", "correct": true }
-		]
-	},
-	{
-		"question": "Qual è la città più grande della Sardegna?",
-		"type":"multipla",
-		"answers": [
-			{ "answer": "Cagliari", "correct": true },
-			{ "answer": "Olbia", "correct": false },
-			{ "answer": "Sassari", "correct": false },
-			{ "answer": "Nuoro", "correct": false }
-		]
-	},
-	{
-		"question": "Qual è la regione italiana che confina con la Francia?",
-		"type":"multipla",
-		"answers": [
-			{ "answer": "Toscana", "correct": false },
-			{ "answer": "Liguria", "correct": false },
-			{ "answer": "Piemonte", "correct": true },
-			{ "answer": "Lombardia", "correct": false }
-		]
-	},
-	{
-		"question": "In quale regione italiana si trova il Vesuvio?",
-		"type":"multipla",
-		"answers": [
-			{ "answer": "Sicilia", "correct": false },
-			{ "answer": "Lazio", "correct": false },
-			{ "answer": "Campania", "correct": true },
-			{ "answer": "Toscana", "correct": false }
-		]
-	},
-	{
-		"question": "Qual è il lago più grande d'Italia?",
-		"type":"multipla",
-		"answers": [
-			{ "answer": "Lago di Garda", "correct": true },
-			{ "answer": "Lago Maggiore", "correct": false },
-			{ "answer": "Lago di Como", "correct": false },
-			{ "answer": "Lago di Iseo", "correct": false }
-		]
-	},
-	
-	{
-		"question": "Qual è la regione italiana che si affaccia sul mare Adriatico?",
-		"type":"multipla",
-		"answers": [
-			{ "answer": "Calabria", "correct": false },
-			{ "answer": "Abruzzo", "correct": true },
-			{ "answer": "Puglia", "correct": false },
-			{ "answer": "Sicilia", "correct": false }
-		]
-	}
-		]    
-}
+          "question":"Qual è la capitale dell'Italia?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Milano",
+                "correct":false
+             },
+             {
+                "answer":"Roma",
+                "correct":true
+             },
+             {
+                "answer":"Napoli",
+                "correct":false
+             },
+             {
+                "answer":"Torino",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la regione italiana più settentrionale?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Piemonte",
+                "correct":false
+             },
+             {
+                "answer":"Lombardia",
+                "correct":false
+             },
+             {
+                "answer":"Veneto",
+                "correct":true
+             },
+             {
+                "answer":"Trentino-Alto Adige",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la regione italiana che si affaccia sul Mar Ionio?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Puglia",
+                "correct":false
+             },
+             {
+                "answer":"Calabria",
+                "correct":true
+             },
+             {
+                "answer":"Sicilia",
+                "correct":false
+             },
+             {
+                "answer":"Basilicata",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la città italiana che si trova più a est?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Trieste",
+                "correct":true
+             },
+             {
+                "answer":"Ancona",
+                "correct":false
+             },
+             {
+                "answer":"Rimini",
+                "correct":false
+             },
+             {
+                "answer":"Bari",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è l'isola italiana più grande?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Sicilia",
+                "correct":true
+             },
+             {
+                "answer":"Sardegna",
+                "correct":false
+             },
+             {
+                "answer":"Elba",
+                "correct":false
+             },
+             {
+                "answer":"Capri",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la città italiana più popolosa?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Roma",
+                "correct":false
+             },
+             {
+                "answer":"Milano",
+                "correct":true
+             },
+             {
+                "answer":"Napoli",
+                "correct":false
+             },
+             {
+                "answer":"Torino",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la regione italiana con la maggior estensione costiera?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Liguria",
+                "correct":false
+             },
+             {
+                "answer":"Campania",
+                "correct":false
+             },
+             {
+                "answer":"Sardegna",
+                "correct":false
+             },
+             {
+                "answer":"Puglia",
+                "correct":true
+             }
+          ]
+       },
+       {
+          "question":"Qual è la regione più grande d'Italia?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Lazio",
+                "correct":false
+             },
+             {
+                "answer":"Sicilia",
+                "correct":true
+             },
+             {
+                "answer":"Lombardia",
+                "correct":false
+             },
+             {
+                "answer":"Campania",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è il fiume più lungo d'Italia?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Po",
+                "correct":true
+             },
+             {
+                "answer":"Arno",
+                "correct":false
+             },
+             {
+                "answer":"Adige",
+                "correct":false
+             },
+             {
+                "answer":"Spionaggio",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la montagna più alta d'Italia?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Monte Bianco",
+                "correct":false
+             },
+             {
+                "answer":"Monte Cervino",
+                "correct":false
+             },
+             {
+                "answer":"Monte Rosa",
+                "correct":false
+             },
+             {
+                "answer":"Monte Bianco di Tenda",
+                "correct":true
+             }
+          ]
+       },
+       {
+          "question":"Qual è la città più grande della Sardegna?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Cagliari",
+                "correct":true
+             },
+             {
+                "answer":"Olbia",
+                "correct":false
+             },
+             {
+                "answer":"Sassari",
+                "correct":false
+             },
+             {
+                "answer":"Nuoro",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la regione italiana che confina con la Francia?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Toscana",
+                "correct":false
+             },
+             {
+                "answer":"Liguria",
+                "correct":false
+             },
+             {
+                "answer":"Piemonte",
+                "correct":true
+             },
+             {
+                "answer":"Lombardia",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"In quale regione italiana si trova il Vesuvio?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Sicilia",
+                "correct":false
+             },
+             {
+                "answer":"Lazio",
+                "correct":false
+             },
+             {
+                "answer":"Campania",
+                "correct":true
+             },
+             {
+                "answer":"Toscana",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è il lago più grande d'Italia?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Lago di Garda",
+                "correct":true
+             },
+             {
+                "answer":"Lago Maggiore",
+                "correct":false
+             },
+             {
+                "answer":"Lago di Como",
+                "correct":false
+             },
+             {
+                "answer":"Lago di Iseo",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la regione italiana che si affaccia sul mare Adriatico?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Calabria",
+                "correct":false
+             },
+             {
+                "answer":"Abruzzo",
+                "correct":true
+             },
+             {
+                "answer":"Puglia",
+                "correct":false
+             },
+             {
+                "answer":"Sicilia",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è il comune italiano più popoloso?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Roma",
+                "correct":false
+             },
+             {
+                "answer":"Milano",
+                "correct":false
+             },
+             {
+                "answer":"Napoli",
+                "correct":false
+             },
+             {
+                "answer":"Palermo",
+                "correct":true
+             }
+          ]
+       },
+       {
+          "question":"Quale regione italiana ospita il Parco Nazionale del Gran Paradiso?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Lombardia",
+                "correct":false
+             },
+             {
+                "answer":"Piemonte",
+                "correct":true
+             },
+             {
+                "answer":"Trentino-Alto Adige",
+                "correct":false
+             },
+             {
+                "answer":"Friuli-Venezia Giulia",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la regione italiana con la costa più lunga?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Sicilia",
+                "correct":false
+             },
+             {
+                "answer":"Sardegna",
+                "correct":false
+             },
+             {
+                "answer":"Calabria",
+                "correct":false
+             },
+             {
+                "answer":"Puglia",
+                "correct":true
+             }
+          ]
+       },
+       {
+          "question":"Quale regione italiana è famosa per le sue Cinque Terre?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Liguria",
+                "correct":true
+             },
+             {
+                "answer":"Toscana",
+                "correct":false
+             },
+             {
+                "answer":"Emilia-Romagna",
+                "correct":false
+             },
+             {
+                "answer":"Veneto",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la regione italiana con il maggior numero di vulcani?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Campania",
+                "correct":false
+             },
+             {
+                "answer":"Sicilia",
+                "correct":false
+             },
+             {
+                "answer":"Calabria",
+                "correct":true
+             },
+             {
+                "answer":"Toscana",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Quale regione italiana è attraversata dal fiume Tevere?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Veneto",
+                "correct":false
+             },
+             {
+                "answer":"Toscana",
+                "correct":false
+             },
+             {
+                "answer":"Lazio",
+                "correct":true
+             },
+             {
+                "answer":"Umbria",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è l'isola italiana più settentrionale?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Sicilia",
+                "correct":false
+             },
+             {
+                "answer":"Sardegna",
+                "correct":false
+             },
+             {
+                "answer":"Elba",
+                "correct":true
+             },
+             {
+                "answer":"Capri",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"In quale regione italiana si trova il Golfo di Napoli?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Campania",
+                "correct":true
+             },
+             {
+                "answer":"Sicilia",
+                "correct":false
+             },
+             {
+                "answer":"Calabria",
+                "correct":false
+             },
+             {
+                "answer":"Puglia",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Quale regione italiana è famosa per le Dolomiti?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Veneto",
+                "correct":false
+             },
+             {
+                "answer":"Piemonte",
+                "correct":false
+             },
+             {
+                "answer":"Trentino-Alto Adige",
+                "correct":true
+             },
+             {
+                "answer":"Lombardia",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è il comune italiano più esteso in termini di superficie?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Roma",
+                "correct":false
+             },
+             {
+                "answer":"Milano",
+                "correct":false
+             },
+             {
+                "answer":"Napoli",
+                "correct":false
+             },
+             {
+                "answer":"Roma",
+                "correct":true
+             }
+          ]
+       },
+       {
+          "question":"Quale regione italiana confina con la Slovenia?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Veneto",
+                "correct":false
+             },
+             {
+                "answer":"Friuli-Venezia Giulia",
+                "correct":true
+             },
+             {
+                "answer":"Emilia-Romagna",
+                "correct":false
+             },
+             {
+                "answer":"Lombardia",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la regione italiana con il maggior numero di laghi?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Lombardia",
+                "correct":true
+             },
+             {
+                "answer":"Toscana",
+                "correct":false
+             },
+             {
+                "answer":"Veneto",
+                "correct":false
+             },
+             {
+                "answer":"Campania",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"In quale regione italiana si trova la città di Verona?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Veneto",
+                "correct":true
+             },
+             {
+                "answer":"Toscana",
+                "correct":false
+             },
+             {
+                "answer":"Lazio",
+                "correct":false
+             },
+             {
+                "answer":"Umbria",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la regione italiana con il maggior numero di isole?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Sardegna",
+                "correct":false
+             },
+             {
+                "answer":"Sicilia",
+                "correct":false
+             },
+             {
+                "answer":"Veneto",
+                "correct":false
+             },
+             {
+                "answer":"Campania",
+                "correct":true
+             }
+          ]
+       },
+       {
+          "question":"Quale regione italiana confina con la Svizzera?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Valle d'Aosta",
+                "correct":true
+             },
+             {
+                "answer":"Piemonte",
+                "correct":false
+             },
+             {
+                "answer":"Trentino-Alto Adige",
+                "correct":false
+             },
+             {
+                "answer":"Liguria",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la regione italiana che si trova nella parte meridionale della penisola?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Veneto",
+                "correct":false
+             },
+             {
+                "answer":"Lazio",
+                "correct":false
+             },
+             {
+                "answer":"Campania",
+                "correct":true
+             },
+             {
+                "answer":"Lombardia",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Quale città italiana è famosa per i suoi canali?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Venezia",
+                "correct":true
+             },
+             {
+                "answer":"Roma",
+                "correct":false
+             },
+             {
+                "answer":"Milano",
+                "correct":false
+             },
+             {
+                "answer":"Napoli",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è il lago più profondo d'Italia?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Lago di Garda",
+                "correct":false
+             },
+             {
+                "answer":"Lago Maggiore",
+                "correct":false
+             },
+             {
+                "answer":"Lago di Como",
+                "correct":false
+             },
+             {
+                "answer":"Lago di Como",
+                "correct":true
+             }
+          ]
+       },
+       {
+          "question":"In quale regione italiana si trova la città di Bologna?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Emilia-Romagna",
+                "correct":true
+             },
+             {
+                "answer":"Toscana",
+                "correct":false
+             },
+             {
+                "answer":"Veneto",
+                "correct":false
+             },
+             {
+                "answer":"Lazio",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Quale isola italiana è famosa per il suo vulcano attivo?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Sicilia",
+                "correct":false
+             },
+             {
+                "answer":"Sardegna",
+                "correct":false
+             },
+             {
+                "answer":"Ischia",
+                "correct":false
+             },
+             {
+                "answer":"Stromboli",
+                "correct":true
+             }
+          ]
+       },
+       {
+          "question":"Quale regione italiana confina con la Slovenia?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Puglia",
+                "correct":false
+             },
+             {
+                "answer":"Calabria",
+                "correct":false
+             },
+             {
+                "answer":"Friuli-Venezia Giulia",
+                "correct":true
+             },
+             {
+                "answer":"Sicilia",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la città italiana che si trova più a sud?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Palermo",
+                "correct":false
+             },
+             {
+                "answer":"Napoli",
+                "correct":false
+             },
+             {
+                "answer":"Cagliari",
+                "correct":true
+             },
+             {
+                "answer":"Reggio Calabria",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Quale regione italiana è famosa per la produzione di vino Chianti?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Lombardia",
+                "correct":false
+             },
+             {
+                "answer":"Toscana",
+                "correct":true
+             },
+             {
+                "answer":"Umbria",
+                "correct":false
+             },
+             {
+                "answer":"Marche",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la catena montuosa che attraversa la parte settentrionale dell'Italia?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Alpi Apuane",
+                "correct":false
+             },
+             {
+                "answer":"Appennini",
+                "correct":false
+             },
+             {
+                "answer":"Alpi Marittime",
+                "correct":false
+             },
+             {
+                "answer":"Alpi",
+                "correct":true
+             }
+          ]
+       },
+       {
+          "question":"Quale regione italiana è famosa per le sue spiagge sabbiose e il mare cristallino?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Sicilia",
+                "correct":false
+             },
+             {
+                "answer":"Puglia",
+                "correct":true
+             },
+             {
+                "answer":"Liguria",
+                "correct":false
+             },
+             {
+                "answer":"Toscana",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"In quale regione italiana si trova la città di Genova?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Campania",
+                "correct":false
+             },
+             {
+                "answer":"Lazio",
+                "correct":false
+             },
+             {
+                "answer":"Liguria",
+                "correct":true
+             },
+             {
+                "answer":"Piemonte",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la regione italiana che si trova sull'isola di Sicilia?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Campania",
+                "correct":false
+             },
+             {
+                "answer":"Calabria",
+                "correct":false
+             },
+             {
+                "answer":"Sicilia",
+                "correct":true
+             },
+             {
+                "answer":"Puglia",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la regione italiana che confina con la Svizzera?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Valle d'Aosta",
+                "correct":true
+             },
+             {
+                "answer":"Lombardia",
+                "correct":false
+             },
+             {
+                "answer":"Trentino-Alto Adige",
+                "correct":false
+             },
+             {
+                "answer":"Veneto",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Quale città italiana è famosa per il Colosseo?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Firenze",
+                "correct":false
+             },
+             {
+                "answer":"Roma",
+                "correct":true
+             },
+             {
+                "answer":"Napoli",
+                "correct":false
+             },
+             {
+                "answer":"Venezia",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Qual è la regione italiana che comprende le Isole Eolie?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Sardegna",
+                "correct":false
+             },
+             {
+                "answer":"Puglia",
+                "correct":false
+             },
+             {
+                "answer":"Sicilia",
+                "correct":true
+             },
+             {
+                "answer":"Calabria",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Quale lago italiano si trova nella regione Lombardia?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Lago Trasimeno",
+                "correct":false
+             },
+             {
+                "answer":"Lago Maggiore",
+                "correct":false
+             },
+             {
+                "answer":"Lago di Garda",
+                "correct":true
+             },
+             {
+                "answer":"Lago di Como",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Quale regione italiana è famosa per la produzione di mozzarella di bufala?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Liguria",
+                "correct":false
+             },
+             {
+                "answer":"Campania",
+                "correct":true
+             },
+             {
+                "answer":"Emilia-Romagna",
+                "correct":false
+             },
+             {
+                "answer":"Toscana",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"In quale regione italiana si trova il Parco Nazionale del Gran Paradiso?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Valle d'Aosta",
+                "correct":true
+             },
+             {
+                "answer":"Trentino-Alto Adige",
+                "correct":false
+             },
+             {
+                "answer":"Piemonte",
+                "correct":false
+             },
+             {
+                "answer":"Lombardia",
+                "correct":false
+             }
+          ]
+       },
+       {
+          "question":"Quale città italiana è famosa per la Torre Pendente?",
+          "type":"multipla",
+          "answers":[
+             {
+                "answer":"Milano",
+                "correct":false
+             },
+             {
+                "answer":"Firenze",
+                "correct":false
+             },
+             {
+                "answer":"Pisa",
+                "correct":true
+             },
+             {
+                "answer":"Bologna",
+                "correct":false
+             }
+          ]
+       }
+    ]
+ }
