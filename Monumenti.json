@@ -65,6 +65,171 @@
                 { "answer": "Castello Aragonese", "correct": false },
                 { "answer": "Galleria degli Uffizi", "correct": false }
             ]
-        }  
+        },
+        {
+            "question": "Qual è il monumento italiano raffigurato in questa immagine?",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Piazza_Navona%2C_Roma_-_fc11.jpg",
+            "type": "multipla",
+            "answers": [
+                { "answer": "Fontana dei Quattro Fiumi", "correct": false },
+                { "answer": "Fontana di Trevi", "correct": false },
+                { "answer": "Fontana del Nettuno", "correct": false },
+                { "answer": "Fontana del Moro", "correct": true }
+            ]
+        },
+        {
+            "question": "Qual è il monumento italiano raffigurato in questa immagine?",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Vesuvio_da_mare_2.JPG",
+            "type": "multipla",
+            "answers": [
+                { "answer": "Colosseo", "correct": false },
+                { "answer": "Torre di Pisa", "correct": false },
+                { "answer": "Vesuvio", "correct": true },
+                { "answer": "Fontana di Trevi", "correct": false }
+            ]
+        },
+        {
+            "question": "Qual è il monumento italiano raffigurato in questa immagine?",
+            "image_url": "https://www.toscana.info/wp-content/uploads/sites/123/ponte-vecchio-hd.jpg",
+            "type": "multipla",
+            "answers": [
+                { "answer": "Ponte Vecchio", "correct": true },
+                { "answer": "Castel Sant'Angelo", "correct": false },
+                { "answer": "Leaning Tower of Pisa", "correct": false },
+                { "answer": "St. Peter's Basilica", "correct": false }
+            ]
+        },
+        {
+            "question": "Qual è il monumento italiano raffigurato in questa immagine?",
+            "image_url": "https://infodiviaggio.it/wp-content/uploads/2021/03/cosa-vedere-a-ragusa.jpeg",
+            "type": "multipla",
+            "answers": [
+                { "answer": "Duomo di Orvieto", "correct": false },
+                { "answer": "Palazzo dei Normanni", "correct": false },
+                { "answer": "Ragusa Ibla", "correct": true },
+                { "answer": "Piazza del Campo", "correct": false }
+            ]
+        },
+        {
+            "question": "Qual è il monumento italiano raffigurato in questa immagine?",
+            "image_url": "https://www.thetrainline.com/cmsmedia/cms/10098/cinque-terre-express_2x.jpg",
+            "type": "multipla",
+            "answers": [
+                { "answer": "Cinque Terre", "correct": true },
+                { "answer": "Palazzo Vecchio", "correct": false },
+                { "answer": "St. Mark's Square", "correct": false },
+                { "answer": "Bridge of Sighs", "correct": false }
+            ]
+        },
+        {
+            "question": "Qual è il monumento italiano raffigurato in questa immagine?",
+            "image_url": "https://www.viaggiosenzascalo.it/wp-content/uploads/2020/04/Alberobello.jpg",
+            "type": "multipla",
+            "answers": [
+                { "answer": "Trulli di Alberobello", "correct": true },
+                { "answer": "Santa Maria Novella", "correct": false },
+                { "answer": "Piazza del Duomo", "correct": false },
+                { "answer": "Ponte di Rialto", "correct": false }
+            ]
+        },
+        {
+            "question": "Qual è il monumento italiano raffigurato in questa immagine?",
+            "image_url": "https://travel.thewom.it/content/uploads/sites/4/2022/09/basilica-di-san-marco_1.jpeg",
+            "type": "multipla",
+            "answers": [
+                { "answer": "Basilica di San Marco", "correct": true },
+                { "answer": "Palazzo Pitti", "correct": false },
+                { "answer": "Colosseo", "correct": false },
+                { "answer": "Ponte Vecchio", "correct": false }
+            ]
+        },
+        {
+            "question": "Qual è il monumento italiano raffigurato in questa immagine?",
+            "image_url": "https://www.livesalerno.com/images/sightseeing/churches/duomodiamalfi/duomoamalfi1.jpg",
+            "type": "multipla",
+            "answers": [
+                { "answer": "Duomo di Amalfi", "correct": true },
+                { "answer": "Cappella Sistina", "correct": false },
+                { "answer": "Torre di Ercole", "correct": false },
+                { "answer": "Palazzo Reale", "correct": false }
+            ]
+        },
+        {
+            "question": "Qual è il monumento italiano raffigurato in questa immagine?",
+            "image_url": "https://storage.googleapis.com/aditus-bucket-strapi/Copia_di_DSC_1293_9af33176f5/Copia_di_DSC_1293_9af33176f5.jpg",
+            "type": "multipla",
+            "answers": [
+                { "answer": "Teatro Greco di Taormina", "correct": true },
+                { "answer": "Rovine di Pompei", "correct": false },
+                { "answer": "Galleria degli Uffizi", "correct": false },
+                { "answer": "Castel Sant'Angelo", "correct": false }
+            ]
+        },
+        {
+            "question": "Qual è il monumento italiano raffigurato in questa immagine?",
+            "image_url": "https://www.napolike.it/turismo/wp-content/uploads/2017/01/Castel-dellOvo-Napoli.jpg",
+            "type": "multipla",
+            "answers": [
+                { "answer": "Ortigia", "correct": false },
+                { "answer": "Piazza Navona", "correct": false },
+                { "answer": "Castel dell'Ovo", "correct": true },
+                { "answer": "Cattedrale di Santa Maria del Fiore", "correct": false }
+            ]
+        },
+        {
+            "question": "Qual è il monumento italiano raffigurato in questa immagine?",
+            "image_url": "https://www.turismo.gal/osdam/filestore/6/1/1/7_ad062657b4d872e/6117scr_cc26799dda7e8a3.jpg",
+            "type": "multipla",
+            "answers": [
+                { "answer": "Ortisei", "correct": false },
+                { "answer": "Piazza del Duomo", "correct": false },
+                { "answer": "Torre di Ercole", "correct": true },
+                { "answer": "Ponte Vecchio", "correct": false }
+            ]
+        },
+        {
+            "question": "Qual è il monumento italiano raffigurato in questa immagine?",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Chateau-saint-ange-tibre.jpg/1200px-Chateau-saint-ange-tibre.jpg",
+            "type": "multipla",
+            "answers": [
+                { "answer": "Castel Sant'Angelo", "correct": true },
+                { "answer": "Pantheon", "correct": false },
+                { "answer": "Torre di Pisa", "correct": false },
+                { "answer": "Ponte Vecchio", "correct": false }
+            ]
+        },
+        {
+            "question": "Qual è il monumento italiano raffigurato in questa immagine?",
+            "image_url": "https://images.musement.com/cover/0153/94/thumb_15293403_cover_header.jpg",
+            "type": "multipla",
+            "answers": [
+                { "answer": "Palazzo Vecchio", "correct": true },
+                { "answer": "Ponte Rialto", "correct": false },
+                { "answer": "Duomo di Milano", "correct": false },
+                { "answer": "Basilica di San Pietro", "correct": false }
+            ]
+        },
+        {
+            "question": "Qual è il monumento italiano raffigurato in questa immagine?",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Piazza_San_Marco_%2827997718740%29.jpg",
+            "type": "multipla",
+            "answers": [
+                { "answer": "Piazza San Marco", "correct": true },
+                { "answer": "Colosseo", "correct": false },
+                { "answer": "Burano", "correct": false },
+                { "answer": "Torre di Pisa", "correct": false }
+            ]
+        },
+        {
+            "question": "Qual è il monumento italiano raffigurato in questa immagine?",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Florence_Duomo_from_Michelangelo_hill.jpg",
+            "type": "multipla",
+            "answers": [
+                { "answer": "Cattedrale di Santa Maria del Fiore", "correct": true },
+                { "answer": "Rovine di Pompei", "correct": false },
+                { "answer": "Galleria degli Uffizi", "correct": false },
+                { "answer": "Torre di Ercole", "correct": false }
+            ]
+        }
     ]
 }
