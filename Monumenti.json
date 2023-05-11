@@ -112,7 +112,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "5terre",
+            "image_url": "Cterre",
             "type": "multipla",
             "answers": [
                 { "answer": "Cinque Terre", "correct": true },
