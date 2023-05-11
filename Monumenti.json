@@ -68,7 +68,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Piazza_Navona%2C_Roma_-_fc11.jpg",
+            "image_url": "moro",
             "type": "multipla",
             "answers": [
                 { "answer": "Fontana dei Quattro Fiumi", "correct": false },
@@ -79,7 +79,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Vesuvio_da_mare_2.JPG",
+            "image_url": "vesuvio",
             "type": "multipla",
             "answers": [
                 { "answer": "Colosseo", "correct": false },
@@ -90,7 +90,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://www.toscana.info/wp-content/uploads/sites/123/ponte-vecchio-hd.jpg",
+            "image_url": "PVecchio",
             "type": "multipla",
             "answers": [
                 { "answer": "Ponte Vecchio", "correct": true },
@@ -101,7 +101,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://infodiviaggio.it/wp-content/uploads/2021/03/cosa-vedere-a-ragusa.jpeg",
+            "image_url": "Ragusa",
             "type": "multipla",
             "answers": [
                 { "answer": "Duomo di Orvieto", "correct": false },
@@ -112,7 +112,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://www.thetrainline.com/cmsmedia/cms/10098/cinque-terre-express_2x.jpg",
+            "image_url": "5terre",
             "type": "multipla",
             "answers": [
                 { "answer": "Cinque Terre", "correct": true },
@@ -123,7 +123,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://www.viaggiosenzascalo.it/wp-content/uploads/2020/04/Alberobello.jpg",
+            "image_url": "Trulli",
             "type": "multipla",
             "answers": [
                 { "answer": "Trulli di Alberobello", "correct": true },
@@ -134,7 +134,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://travel.thewom.it/content/uploads/sites/4/2022/09/basilica-di-san-marco_1.jpeg",
+            "image_url": "BSM",
             "type": "multipla",
             "answers": [
                 { "answer": "Basilica di San Marco", "correct": true },
@@ -145,7 +145,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://www.livesalerno.com/images/sightseeing/churches/duomodiamalfi/duomoamalfi1.jpg",
+            "image_url": "DuomoAmalfi",
             "type": "multipla",
             "answers": [
                 { "answer": "Duomo di Amalfi", "correct": true },
@@ -156,7 +156,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://storage.googleapis.com/aditus-bucket-strapi/Copia_di_DSC_1293_9af33176f5/Copia_di_DSC_1293_9af33176f5.jpg",
+            "image_url": "TeatroTaormina",
             "type": "multipla",
             "answers": [
                 { "answer": "Teatro Greco di Taormina", "correct": true },
@@ -167,7 +167,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://www.napolike.it/turismo/wp-content/uploads/2017/01/Castel-dellOvo-Napoli.jpg",
+            "image_url": "CasteldelOvo",
             "type": "multipla",
             "answers": [
                 { "answer": "Ortigia", "correct": false },
@@ -178,7 +178,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://www.turismo.gal/osdam/filestore/6/1/1/7_ad062657b4d872e/6117scr_cc26799dda7e8a3.jpg",
+            "image_url": "torrediercole",
             "type": "multipla",
             "answers": [
                 { "answer": "Ortisei", "correct": false },
@@ -189,7 +189,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Chateau-saint-ange-tibre.jpg/1200px-Chateau-saint-ange-tibre.jpg",
+            "image_url": "CastelStAngelo",
             "type": "multipla",
             "answers": [
                 { "answer": "Castel Sant'Angelo", "correct": true },
@@ -200,7 +200,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://images.musement.com/cover/0153/94/thumb_15293403_cover_header.jpg",
+            "image_url": "PalazzoVecchio",
             "type": "multipla",
             "answers": [
                 { "answer": "Palazzo Vecchio", "correct": true },
@@ -211,7 +211,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Piazza_San_Marco_%2827997718740%29.jpg",
+            "image_url": "PSM",
             "type": "multipla",
             "answers": [
                 { "answer": "Piazza San Marco", "correct": true },
@@ -222,7 +222,7 @@
         },
         {
             "question": "Qual è il monumento italiano raffigurato in questa immagine?",
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Florence_Duomo_from_Michelangelo_hill.jpg",
+            "image_url": "DuomoFirenze",
             "type": "multipla",
             "answers": [
                 { "answer": "Cattedrale di Santa Maria del Fiore", "correct": true },
